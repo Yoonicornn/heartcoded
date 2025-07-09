@@ -23,7 +23,7 @@ The program displays dozens of pixelated hearts and two messages on the screen u
 
 ## 🖼️ Preview
 
-![output](./VGA_pixel_buffer_output.jpg)
+![output](./VGA_pixel_buffer_output.png)
 
 
 ## 🧠 How It Works
